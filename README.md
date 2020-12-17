@@ -6,9 +6,9 @@ A simple Flask application to detect sentiment from text.<br>
 
 <b>Demo:</b><br>
 
-<img src='static/picture1.jpg'><br>
+<img src='static/pic1.jpg'><br>
 
-<img src='static/picture2.jpg'><br>
+<img src='static/pic2.jpg'><br>
 
 <b>Created By:</b> Hui Ling
 
